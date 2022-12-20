@@ -7,3 +7,6 @@ A home improvement website which generates a personalized home improvement solut
 Key Contributions :
 1. Added the functionality for searching multiple addresses.
 2. Added user authentication 
+
+
+**Code cannot be open sourced because of the company's standard non- disclosure agreement.
