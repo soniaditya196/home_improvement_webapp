@@ -9,4 +9,4 @@ Key Contributions :
 2. Added user authentication 
 
 
-**Code cannot be open sourced because of the company's standard non- disclosure agreement.
+**Code cannot be open-sourced because of the company's standard non- disclosure agreement.
